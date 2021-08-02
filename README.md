@@ -1,1 +1,1 @@
-# Strapi
+# Camera
